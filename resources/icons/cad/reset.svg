@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect x="0" y="0" width="24" height="24" rx="3" fill="white" opacity="0.01"/>
+  <path d="M5 9 V5 H9 M15 5 H19 V9 M19 15 V19 H15 M9 19 H5 V15" fill="none" stroke="#0277bd" stroke-width="2"/><rect x="8" y="8" width="8" height="8" fill="none" stroke="#0277bd" stroke-width="2"/>
+  <text x="12" y="22.2" font-family="DejaVu Sans,Arial" font-size="4.2" text-anchor="middle" fill="#0277bd" font-weight="700">R</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect x="0" y="0" width="24" height="24" rx="3" fill="white" opacity="0.01"/>
+  <rect x="4" y="5" width="16" height="14" rx="2" fill="none" stroke="#263238" stroke-width="1.8"/><path d="M7 10 L10 12 L7 14" fill="none" stroke="#2e7d32" stroke-width="1.6"/><path d="M11 15 H17" stroke="#2e7d32" stroke-width="1.4"/>
+  <text x="12" y="22.2" font-family="DejaVu Sans,Arial" font-size="4.2" text-anchor="middle" fill="#263238" font-weight="700">C</text>
+</svg>

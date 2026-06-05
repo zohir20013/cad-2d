@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect x="0" y="0" width="24" height="24" rx="3" fill="white" opacity="0.01"/>
+  <path d="M4 8 L12 4 L20 8 L12 12 Z" fill="#cfd8dc" stroke="#546e7a" stroke-width="1.4"/><path d="M4 12 L12 16 L20 12" fill="none" stroke="#546e7a" stroke-width="1.4"/><path d="M4 16 L12 20 L20 16" fill="none" stroke="#546e7a" stroke-width="1.4"/><path d="M16 4 L21 9 M21 4 L16 9" stroke="#c62828" stroke-width="2"/>
+  <text x="12" y="22.2" font-family="DejaVu Sans,Arial" font-size="4.2" text-anchor="middle" fill="#546e7a" font-weight="700">LD</text>
+</svg>

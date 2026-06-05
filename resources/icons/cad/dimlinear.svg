@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect x="0" y="0" width="24" height="24" rx="3" fill="white" opacity="0.01"/>
+  <path d="M5 15 L19 15" fill="none" stroke="#6a1b9a" stroke-width="1.6" stroke-linecap="round" /><path d="M5 11 L5 18" fill="none" stroke="#6a1b9a" stroke-width="1.2" stroke-linecap="round" /><path d="M19 11 L19 18" fill="none" stroke="#6a1b9a" stroke-width="1.2" stroke-linecap="round" /><defs><marker id="a" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#6a1b9a"/></marker><marker id="b" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto"><path d="M6 0 L0 3 L6 6 Z" fill="#6a1b9a"/></marker></defs><path d="M6 18 L18 18" fill="none" stroke="#6a1b9a" stroke-width="2" stroke-linecap="round" marker-start="url(#b)" marker-end="url(#a)"/>
+  <text x="12" y="22.2" font-family="DejaVu Sans,Arial" font-size="4.2" text-anchor="middle" fill="#6a1b9a" font-weight="700">DIM</text>
+</svg>

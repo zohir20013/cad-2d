@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect x="0" y="0" width="24" height="24" rx="3" fill="white" opacity="0.01"/>
+  <circle cx="8" cy="13" r="4" fill="none" stroke="#1565c0" stroke-width="2"/><path d="M7 9 L19 6" fill="none" stroke="#1565c0" stroke-width="2" stroke-linecap="round" /><circle cx="7" cy="9" r="1.7" fill="#f9a825" stroke="white" stroke-width="0.5"/>
+  <text x="12" y="22.2" font-family="DejaVu Sans,Arial" font-size="4.2" text-anchor="middle" fill="#1565c0" font-weight="700">LT</text>
+</svg>

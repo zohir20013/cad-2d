@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect x="0" y="0" width="24" height="24" rx="3" fill="white" opacity="0.01"/>
+  <rect x="5" y="8" width="8" height="8" fill="none" stroke="#d84315" stroke-width="2"/><rect x="10" y="5" width="8" height="8" fill="none" stroke="#d84315" stroke-width="2"/><circle cx="18" cy="5" r="1.7" fill="#d84315" stroke="white" stroke-width="0.5"/>
+  <text x="12" y="22.2" font-family="DejaVu Sans,Arial" font-size="4.2" text-anchor="middle" fill="#d84315" font-weight="700">C</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect x="0" y="0" width="24" height="24" rx="3" fill="white" opacity="0.01"/>
+  <rect x="4" y="5" width="16" height="12" fill="none" stroke="#1565c0" stroke-width="2"/><path d="M9 5 L9 17" fill="none" stroke="#1565c0" stroke-width="1" stroke-linecap="round" /><path d="M14 5 L14 17" fill="none" stroke="#1565c0" stroke-width="1" stroke-linecap="round" /><path d="M4 9 L20 9" fill="none" stroke="#1565c0" stroke-width="1" stroke-linecap="round" /><path d="M4 13 L20 13" fill="none" stroke="#1565c0" stroke-width="1" stroke-linecap="round" />
+  <text x="12" y="22.2" font-family="DejaVu Sans,Arial" font-size="4.2" text-anchor="middle" fill="#1565c0" font-weight="700">T</text>
+</svg>

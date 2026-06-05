@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect x="0" y="0" width="24" height="24" rx="3" fill="white" opacity="0.01"/>
+  <circle cx="8" cy="8" r="3" fill="#e53935"/><circle cx="14" cy="8" r="3" fill="#43a047"/><circle cx="11" cy="14" r="3" fill="#1e88e5"/><path d="M17 17 L21 21" stroke="#5d4037" stroke-width="2"/>
+  <text x="12" y="22.2" font-family="DejaVu Sans,Arial" font-size="4.2" text-anchor="middle" fill="#5d4037" font-weight="700">C</text>
+</svg>

@@ -1,0 +1,41 @@
+# Build directories
+/build/
+/build-*/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/compile_commands.json
+/CTestTestfile.cmake
+/Testing/
+
+# Generated packages
+/dist/
+
+# Object and binary files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.pdb
+*.ilk
+*.app
+
+# Qt Creator and IDE files
+*.user
+*.user.*
+*.autosave
+/.qtc_clangd/
+/.vscode/
+/.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect x="0" y="0" width="24" height="24" rx="3" fill="white" opacity="0.01"/>
+  <defs><marker id="a" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#1565c0"/></marker></defs><path d="M5 16 L19 7" fill="none" stroke="#1565c0" stroke-width="2" stroke-linecap="round" marker-end="url(#a)"/><circle cx="5" cy="16" r="1.7" fill="#f9a825" stroke="white" stroke-width="0.5"/>
+  <text x="12" y="22.2" font-family="DejaVu Sans,Arial" font-size="4.2" text-anchor="middle" fill="#1565c0" font-weight="700">ARR</text>
+</svg>
